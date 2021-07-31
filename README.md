@@ -1,5 +1,5 @@
-Blog API Backend
-
+**Blog API Backend
+**
 A REST API for blog built using Django Rest Framework
 Installation
 Requirements
@@ -10,7 +10,7 @@ Requirements
 
     Complete list available in requirements.txt file
 
-Quickstart
+**Quickstart**
 
     Clone the repo.
 
