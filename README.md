@@ -1,5 +1,4 @@
-**Blog API Backend
-**
+**Blog API Backend**
 
 A REST API for blog built using Django Rest Framework
 Installation
